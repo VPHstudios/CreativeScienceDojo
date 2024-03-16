@@ -1035,8 +1035,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":2956,
-         "source":"tilesets\/dojologo-final.tsx"
+         "image":"..\/VPHDOJO-master\/tilesets\/dojologo-final.png",
+         "imageheight":70,
+         "imagewidth":202,
+         "margin":0,
+         "name":"dojologo-final",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
