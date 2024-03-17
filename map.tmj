@@ -859,7 +859,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"A secure, virtual office built by and for VPH Creators."
         }, 
         {
          "name":"mapImage",
@@ -869,7 +869,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"The Dojo at VPH Studios"
         }, 
         {
          "name":"script",
