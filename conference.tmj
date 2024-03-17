@@ -423,7 +423,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
+                         "value":"Press SPACE or touch here to go to The Basement at VPH Studios."
                         }],
                  "rotation":0,
                  "type":"area",
@@ -694,7 +694,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"This is the Library Lab conncected to The Dojo at VPH Studios."
+         "value":"A perfect virtual office to get started with WorkAdventure!"
         }, 
         {
          "name":"mapImage",
@@ -704,7 +704,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Library Lab"
+         "value":"Office"
         }, 
         {
          "name":"script",
