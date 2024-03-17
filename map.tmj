@@ -549,11 +549,6 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -613,11 +608,6 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -645,11 +635,6 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -677,11 +662,6 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -709,11 +689,6 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
                         }],
                  "rotation":0,
                  "type":"area",
