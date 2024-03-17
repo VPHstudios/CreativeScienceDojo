@@ -694,7 +694,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"This is the Library Lab conncected to The Dojo at VPH Studios."
         }, 
         {
          "name":"mapImage",
@@ -704,7 +704,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Library Lab"
         }, 
         {
          "name":"script",
