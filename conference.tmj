@@ -433,9 +433,9 @@
                  "y":82.4962189413036
                 }, 
                 {
-                 "height":96,
+                 "height":125.268292682927,
                  "id":22,
-                 "name":"to-office",
+                 "name":"To South Wing",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -447,12 +447,12 @@
                  "visible":true,
                  "width":96,
                  "x":608,
-                 "y":0
+                 "y":6.09756097560975
                 }, 
                 {
                  "height":32,
                  "id":23,
-                 "name":"from-office",
+                 "name":"from-South Wing",
                  "properties":[
                         {
                          "name":"start",
@@ -463,8 +463,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":640,
-                 "y":128
+                 "x":638.780487804878,
+                 "y":104.829268292683
                 }],
          "opacity":1,
          "type":"objectgroup",
