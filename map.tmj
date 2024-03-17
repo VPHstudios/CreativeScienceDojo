@@ -536,11 +536,6 @@
                  "name":"Production Area 1",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -595,11 +590,6 @@
                  "name":"Production Area 4",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -621,11 +611,6 @@
                  "id":24,
                  "name":"Production Area 5",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -649,11 +634,6 @@
                  "name":"Meeting Area",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -675,11 +655,6 @@
                  "id":21,
                  "name":"Production Area 2",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
